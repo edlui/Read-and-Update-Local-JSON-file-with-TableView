@@ -1,0 +1,20 @@
+[
+    {"lastname":"James", "firstname":"Lebron", "yob":"30/12/1984", "team":"Los Angeles Lakers"},
+    {"lastname":"Messi", "firstname":"Lionel", "yob":"24/6/1987", "team":"Barcelona F.C."},
+    {"lastname":"Ronaldo", "firstname":"Cristiano", "yob":"5/2/1985", "team":"Juventus F.C."},
+    {"lastname":"Curry", "firstname":"Septhen", "yob":"14/3/1988", "team":"Golden State Warriors"},
+    {"lastname":"Antetokounmpo", "firstname":"Giannis", "yob":"6/12/1994", "team":"Milwaukee Bucks"},
+    {"lastname":"Hazard", "firstname":"Eden", "yob":"7/1/1991", "team":"Chelsea F.C."},
+    {"lastname":"Harden", "firstname":"James", "yob":"26/8/1989", "team":"Houston Rocket"},
+    {"lastname":"Pogba", "firstname":"Paul", "yob":"15/3/1993", "team":"Manchester United F.C."},
+    {"lastname":"De Gea", "firstname":"David", "yob":"7/11/1990", "team":"Manchester United F.C."},
+    {"lastname":"Durant", "firstname":"Kevin", "yob":"29/9/1988", "team":"Golden State Warriors"},
+    {"lastname":"Irving", "firstname":"Kyrie", "yob":"23/3/1992", "team":"Boston Celtics"},
+    {"lastname":"Leonard", "firstname":"Kawhi", "yob":"29/6/1991", "team":"Toronto Raptors"},
+    {"lastname":"De Bruyne", "firstname":"Kevin", "yob":"28/6/1991", "team":"Manchester City F.C."},
+    {"lastname":"Kane", "firstname":"Harry", "yob":"28/7/1993", "team":"Tottenham Hotspur F.C."},
+    {"lastname":"Özil", "firstname":"Mesut", "yob":"15/10/1988", "team":"Arsenal F.C."},
+    {"lastname":"Coutinho", "firstname":"Philippe", "yob":"12/6/1992", "team":"Barcelona F.C."},
+    {"lastname":"Ramos", "firstname":"Sergio", "yob":"30/3/1986", "team":"Real Madrid C.F."},
+    {"lastname":"Mbappe", "firstname":"Kylian", "yob":"20/12/1998", "team":"Paris Saint-Germain F.C."}
+]
